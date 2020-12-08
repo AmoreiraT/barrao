@@ -1117,19 +1117,19 @@ var LandingComponent = /** @class */ (function () {
             {
                 titulo: 'Primeiro Serviço',
                 descri: 'Descrição breve sobre este serviço',
-                img: '../../../assets/img/ferro.jpg',
+                img: 'assets/img/ferro.jpg',
                 check: false,
             },
             {
                 titulo: 'Segundo Serviço',
                 descri: 'Descrição breve sobre este serviço',
-                img: '../../../assets/img/ferro.jpg',
+                img: 'assets/img/ferro.jpg',
                 check: false,
             },
             {
                 titulo: 'Terceiro Serviço',
                 descri: 'Descrição breve sobre este serviço',
-                img: '../../../assets/img/ferro.jpg',
+                img: 'assets/img/ferro.jpg',
                 check: false,
             },
         ];
